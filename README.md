@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Computer science student who likes programming**<br>🔭 I’m currently working on [msmp-api](https://github.com/atudorcarsin/msmp-api)<br>🌱 I’m currently learning **Rust, C, C++, Go**
+**Computer science student who likes programming**<br>🔭 I’m currently working on [msmp-ui](https://github.com/atudorcarsin/msmp-ui)<br>🌱 I’m currently learning **Rust, C, C++, Go**
 
 
 ## 🌐 Socials:
